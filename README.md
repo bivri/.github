@@ -1,2 +1,4 @@
-# .github
-Bivri organization profile and community health files
+# bivri/.github
+
+Organization profile (`profile/README.md`) and default community health files for
+[Bivri](https://bivri.app) repositories.
